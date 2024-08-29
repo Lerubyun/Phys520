@@ -2,6 +2,7 @@
  
 This repository contains materials for the **Physiology/Bioinformatics 520**: *Computational Systems Biology for Physiologists*
 
+<<<<<<< HEAD
 #### Course Director:
 Daniel Beard  
 Molecular and Integrative Physiology  
@@ -25,3 +26,7 @@ weekly assignments and final project, each equally weighted.
 If a student in a course taught by the Department of Molecular and Integrative Physiology thinks a grade was
 unfairly assigned, they may inquire about the grade and, if necessary, initiate a grade grievance. The full policy is
 posted on the course Canvas site and can also be found at https://medicine.umich.edu/dept/molecular-integrative-physiology/grade-grievance-policy. Please note that students must provide the instructor a written document that identifies the issue in dispute and outlines the pertinent facts, and they must request a consultation with the instructor within the first week following receipt of the grade in question.
+=======
+>>>>>>> parent of ee1c788 (Adding secret message)
+
+Secret message: Extra credit for using Git throughout the course!
